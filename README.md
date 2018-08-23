@@ -17,7 +17,8 @@ Everything comes into a few files (and most of them are used for demo).
 ## Screenshots
 
 ![Demo Scene](Screenshots/Demo_Scene.PNG)
-![Uses Scriptable Objects!](Screenshots/Example_Scriptable_Object.PNG)
+![Scriptable Object 1](Screenshots/Example_1.PNG)
+![Scriptable Object 2](Screenshots/Example_2.PNG)
 
 ## Authors
 
