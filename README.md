@@ -5,13 +5,11 @@ Use this if you want to randomize the texture of any object in your project.
 ## Getting Started
 
 For a quick import into an existing project, just get the UnityPackage.
+The DemoProject folder is an empty project with only the plugin imported and some examples! :)
 
-If you want first to test this Plugin in a new empty project, that's what the DemoProject is! :)
-
-### Prerequisites
+## Prerequisites
 
 There are absolutely no prerequisites to this plugin.
-
 Everything comes into a few files (and most of them are used for demo).
 
 ## Authors
