@@ -14,6 +14,11 @@ There are absolutely no prerequisites to this plugin.
 
 Everything comes into a few files (and most of them are used for demo).
 
+## Screenshots
+
+![Demo Scene](Screenshots/Demo_Scene.PNG)
+![Uses Scriptable Objects!](Screenshots/Example_Scriptable_Object.PNG)
+
 ## Authors
 
 * **[Arthur Cousseau](https://www.linkedin.com/in/arthurcousseau/)**
