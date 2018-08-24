@@ -4,7 +4,7 @@ Use this if you want to randomize the texture of any object in your project.
 
 ## Getting Started
 
-For a quick import into an existing project, just get the UnityPackage.
+For a quick import into an existing project, just get the [UnityPackage](RandomTexturePackage.unitypackage).
 
 The RandomTexture folder is an empty project with only the plugin imported and some examples! :)
 
