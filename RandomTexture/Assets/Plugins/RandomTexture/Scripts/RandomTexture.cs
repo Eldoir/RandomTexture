@@ -3,7 +3,7 @@
 public class RandomTexture : MonoBehaviour
 {
     [SerializeField]
-    [Tooltip("This material must be one of the materials of this object. Its main texture will be randomized using the array below.")]
+    [Tooltip("This material must be one of the materials of this object. Its main texture will be randomized using the data file below.")]
     private Material material;
 
     [SerializeField]
