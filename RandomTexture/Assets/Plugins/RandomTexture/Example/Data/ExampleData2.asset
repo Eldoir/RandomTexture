@@ -3,8 +3,9 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -12,5 +13,5 @@ MonoBehaviour:
   m_Name: ExampleData2
   m_EditorClassIdentifier: 
   textures:
-  - {fileID: 2800000, guid: af8f011ccbd580143a7ccc0c85b324ba, type: 3}
-  - {fileID: 2800000, guid: 31f29c6a6c5d05c4597c97fc17e524ff, type: 3}
+  - {fileID: 2800000, guid: 600d2ccd51e4d4b41a8c764ed92f05a9, type: 3}
+  - {fileID: 2800000, guid: 4e06ed3c47ac6954fbabd48d80e12036, type: 3}
