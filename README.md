@@ -40,4 +40,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thanks to [Freebies](https://www.flaticon.com/authors/roundicons-freebies) for the textures used in the demo project. More at www.flaticon.com
+* Thanks to [Freebies](https://www.flaticon.com/authors/roundicons-freebies) for the textures used in the demo project. More at [Flaticon](www.flaticon.com)
