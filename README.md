@@ -8,7 +8,7 @@ For a quick import into an existing project, just get the [UnityPackage](RandomT
 
 The RandomTexture folder is an empty project with only the plugin imported and some examples! :)
 
-Create a new RandomTexture data file by going into your Assets -> Create -> RandomTexture.
+Create a new RandomTexture data file by going into Assets -> Create -> RandomTexture.
 
 ![Creating a RandomTexture](Screenshots/Create_RandomTexture.png)
 
