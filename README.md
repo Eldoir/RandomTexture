@@ -10,7 +10,7 @@ The RandomTexture folder is an empty project with only the plugin imported and s
 
 Create a new RandomTexture data file by right-clicking into your Project and selecting Create -> RandomTexture.
 
-![ScriptableObject Example](Screenshots/Example_Data.PNG)
+![Creating a RandomTexture](Screenshots/Create_RandomTexture.png)
 
 Then you can assign it to a RandomTexture script! (see screenshot below)
 
