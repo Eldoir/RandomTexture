@@ -81,7 +81,7 @@ public class RandomTexture : MonoBehaviour
 
         if (myRenderer != null && materials == null)
         {
-            materials = myRenderer.sharedMaterials; // Accessing sharedMaterials, instead of materials, don't create instances of the materials.
+            materials = myRenderer.sharedMaterials; // Accessing sharedMaterials, instead of materials, doesn't create instances of the materials.
         }
 
         if (randomTextureData == null || randomTextureData.Textures == null || randomTextureData.Textures.Length == 0)
