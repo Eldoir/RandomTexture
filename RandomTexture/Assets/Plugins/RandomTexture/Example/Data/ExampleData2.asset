@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: ExampleData2
   m_EditorClassIdentifier: 
   textures:
-  - {fileID: 2800000, guid: 600d2ccd51e4d4b41a8c764ed92f05a9, type: 3}
-  - {fileID: 2800000, guid: 4e06ed3c47ac6954fbabd48d80e12036, type: 3}
+  - {fileID: 2800000, guid: 4c5fd404c82458a49ba7f02d6339c762, type: 3}
+  - {fileID: 2800000, guid: c5c7e9f17fb038f45a4cf5e987cc9cbe, type: 3}
