@@ -14,12 +14,6 @@ Create a new RandomTexture data file by going into Assets -> Create -> RandomTex
 
 Then you can assign it to a RandomTexture script! (see screenshot below)
 
-## Prerequisites
-
-There are absolutely no prerequisites to this plugin.
-
-Everything comes into a few files (and most of them are used for demo).
-
 ## Screenshots
 
 ![Demo Scene](Screenshots/Demo_Scene.PNG)
